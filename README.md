@@ -7,15 +7,15 @@ This app is a simple app that allows users to send chat messages. Users login wi
 ### Dependencies
 
 * In order to run the code you need to download all files and folders. Main changes were made to the Kotlin files within the app/src directory. Both build.gradle files (inside and outside of app directory) are going to be needed as they hold the dependencies.
-* You will also have Android studio and an emulator setup
+* You will also need to have Android studio and an emulator setup
 
 ### Installing
 
-* Download the entire appdev_hw2 repo. Save them into a directory titled "build-android-start"
+* Download the entire appdev_hw2 repo. Save all files into a directory titled "build-android-start"
 
 ### Executing program
 
-* Download npm and node.js. In the terminal type:
+* Download npm and node.js. After doing so, in the terminal type:
    ```
    npm install -g firebase-tools@latest
    ```
